@@ -31,3 +31,14 @@ Create a simple calculator that can add, subtract, multiply, or divide two numbe
 10. Fibonacci Series
 Write a program to print the first n numbers of the Fibonacci series.
 (Input: 6 → Output: 0 1 1 2 3 5)
+
+11. Print all prime numbers between 1 and 50
+12. Remove duplicate values from a list using a set or loop
+Input: [1, 2, 2, 3, 4, 4]
+13. Find the length of a list without using len()
+14. Use a loop to count how many items are in a list
+15.  Merge two lists into one
+Example: [1, 2, 3] and [4, 5, 6] → [1, 2, 3, 4, 5, 6]
+16. Write a program to find the sum of only even numbers in a list
+17. Replace a word with another in a given string
+Input: "Python is easy" → Replace: "easy" with "fun"
