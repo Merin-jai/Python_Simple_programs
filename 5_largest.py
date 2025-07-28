@@ -3,16 +3,10 @@
 a=int(input("Enter first "))
 b=int(input("Enter second "))
 c=int(input("Enter third "))
-if a > b :
-    if a > c :
+if a > b & a > c :
         large = a
-    else :
-        large = c 
-elif a > c :
-    large = a
-else :
-    if b > c :
+elif b > a & b > c :
         large = b
-    else :
+else :
         large = c
 print(f"Largest is {large}")
