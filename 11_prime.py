@@ -1,5 +1,7 @@
 # 11. Print all prime numbers between 1 and 50
-import math
+
+# import math
+
 for n in range(2,51) :
     prime = 1
     l = int(n/2)
