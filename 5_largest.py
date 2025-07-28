@@ -5,7 +5,7 @@ b=int(input("Enter second "))
 c=int(input("Enter third "))
 if a > b & a > c :
         large = a
-elif b > a & b > c :
+elif b > c:
         large = b
 else :
         large = c
